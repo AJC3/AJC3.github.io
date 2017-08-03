@@ -1,0 +1,38 @@
+body{
+    background: url(ghosts.png);
+    }
+    
+img{
+   margin: 0 auto;
+   display: block;
+   width: 20%;
+}
+
+h2{
+    font-size:300%;
+    font-family:'Arial';
+    
+}
+
+p{
+    font-size:300%;
+    font-family:'Arial';
+    text-align: center;
+    background-color:white;
+    border-radius:15px;
+}
+
+#grandpa{
+    display:block;
+    width:10%;
+}
+
+#kingk{
+    display:block;
+    width:100%;
+}
+
+#photogallery{
+    display: block;
+    margin: auto;
+}
